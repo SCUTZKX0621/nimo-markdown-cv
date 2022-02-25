@@ -1,3 +1,11 @@
+---
+layout: cv
+title: NicholasYe's CV
+email:
+  url: mailto:1993944596@qq.com
+  text: Kaixing_Email:1993944596@qq.com
+---
+
 # Kaixing Zha
 <!--
 include contact information from the front matter
