@@ -8,7 +8,8 @@ homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
 ---
-# Kaixing **Zha**
+
+# Wode **Ni**
 
 <!--
 include contact information from the front matter
@@ -19,7 +20,6 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
-
 ## Education
 
 ### **South China University of Technology** `2020.9-Now`
