@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode Kaixing Zha
+title: Kaixing Zha
 email:
   url: mailto:woden@cs.cmu.edu
   text: woden@cs.cmu.edu
