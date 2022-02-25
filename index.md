@@ -8,7 +8,9 @@
 Guangzhou，China
 ```
 
-- B.S. in Software Engineering, School of Software Engineering
+- B.S. in Software Engineering(Excellent class), School of Software Engineering
+- GPA: 3.35/4.0
+- Ranking: 29/46
 
 ## Publications
 
