@@ -36,20 +36,21 @@ B.S. in Software Engineering(Excellent Class) , School of Software Engineering
 
 ## Experience
 
-### **Microsoft Research** `2020.5 - 2020.8`
+### **Tencent Blue King Intelligence Cloud - University Development Project** `2021.5 - 2021.11`
 
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
+_BlueKing PaaS_<br>
+**Tencent Blue King** is a set of PaaS (platform as a service) development framework used to build an integrated system of enterprise R&D and operation.
+This project mainly uses the Front-End development framework Vue, and combines Python and Mysql and other development tools to develop, and finally realizes the wechat moments based on the Saas platform of Blue King. 
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+[Tencent Project](https://gitee.com/Leon_Zha/bk_wechat_demo)
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### **Cpp Course Training ** `2021.5 - 2021.6`
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+_Course introduction_<br>
+Complete the training task alone: 12306 train ticket ticketing system
+The software needs to unify user, administrator and console through several text files.  The whole system needs to save three types of data, which are respectively the account (password) of the pipeline operator, the account (password) of the user, and all the information of the train (train number, starting and ending point, running time, rated load and remaining ticket quantity).  
 
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+The whole program , written using Cpp, which makes use of the linked list, sorting algorithm and other knowledge, is a good test of personal programming practice ability.
 
 ## Mentoring
 
