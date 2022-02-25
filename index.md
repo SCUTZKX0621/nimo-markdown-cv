@@ -1,13 +1,3 @@
----
-layout: cv
-title: Kaixing_CV
-email:
-  url: mailto:1993944596@qq.com
-  text: Kaixing_Email:1993944596
-phone：
-  text：Kaixing_Phone:13607091941
-  
----
 # Kaixing Zha
 <!--
 include contact information from the front matter
