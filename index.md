@@ -1,15 +1,10 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Kaixing_CV
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: mailto:1993944596@qq.com
+  text: Kaixing_Email
 ---
-
-
 <!--
 include contact information from the front matter
 Supported arguments:
