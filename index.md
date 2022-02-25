@@ -9,7 +9,6 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Kaixing Zha
 
 <!--
 include contact information from the front matter
