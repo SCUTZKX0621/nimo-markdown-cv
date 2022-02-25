@@ -74,10 +74,10 @@ English:
 
 ## Skills
 
-Programmming language：C++(skilled)、Python&Java（Basic）
-Developing skill：HTML\CSS\JS\Vue
-Writing skill: Markdown(Experienced)
-Mastery of knowledge：Data structures and algorithms、 Principles of Computer Composition、Discrete Mathematics etc.
+- Programmming language：C++(skilled)、Python&Java（Basic）
+- Developing skill：HTML\CSS\JS\Vue
+- Writing skill: Markdown(Experienced)
+- Mastery of knowledge：Data structures and algorithms、 Principles of Computer Composition、Discrete Mathematics etc.
 
 <!-- ### Footer
 
