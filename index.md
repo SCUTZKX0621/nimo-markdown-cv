@@ -40,17 +40,20 @@ B.S. in Software Engineering(Excellent Class) , School of Software Engineering
 
 _BlueKing PaaS_<br>
 **Tencent Blue King** is a set of PaaS (platform as a service) development framework used to build an integrated system of enterprise R&D and operation.
-This project mainly uses the Front-End development framework Vue, and combines Python and Mysql and other development tools to develop, and finally realizes the wechat moments based on the Saas platform of Blue King. 
+- Using the Front-End development framework "Vue", with Python and Mysql and other development tools to develop, 
+- Realizing the wechat moments based on the Saas platform of Blue King. 
+- Understanding the enterprise development standardization process.
 
 [Tencent Project](https://gitee.com/Leon_Zha/bk_wechat_demo)
 
-### **Cpp Course Training ** `2021.5 - 2021.6`
+### **Cpp Course Training** `2021.5 - 2021.6`
 
 _Course introduction_<br>
 Complete the training task alone: 12306 train ticket ticketing system
-The software needs to unify user, administrator and console through several text files.  The whole system needs to save three types of data, which are respectively the account (password) of the pipeline operator, the account (password) of the user, and all the information of the train (train number, starting and ending point, running time, rated load and remaining ticket quantity).  
 
-The whole program , written using Cpp, which makes use of the linked list, sorting algorithm and other knowledge, is a good test of personal programming practice ability.
+- The software needs to unify user, administrator and console through several text files.  
+- Accomplishing the task of analyzing system requirements、designing the development pattern、achieving the intended function.
+- Written using Cpp, which makes use of the linked list, sorting algorithm and other knowledge, is a good test of personal programming practice ability.
 
 ## Mentoring
 
