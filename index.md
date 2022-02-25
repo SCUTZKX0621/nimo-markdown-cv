@@ -18,6 +18,11 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## Contact
+- Phone:13607091941
+- QQ:1993944596
+- Email:199394496@qq.com
+
 ## Education
 
 
