@@ -70,8 +70,8 @@ A course to complete the training task alone: 12306 train ticket ticketing syste
 ## Grades & Awards
 
 Mathematic:
-- Won the second prize in “The Chinese Mathematics Competitions”(CMC)，Guangdong Province.`2021.10 `
-- Won the Excellence Award College Mathematics Challenge Competitions.`2021.3 `
+- Won the second prize in "The Chinese Mathematics Competitions(CMC)"，Guangdong Province.`2021.10 `
+- Won the Excellence Award in"College Mathematics Challenge Competitions".`2021.3 `
 
 ## Skills
 
