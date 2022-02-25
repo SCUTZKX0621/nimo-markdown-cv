@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Kaixing Zha
+title: Wode "Nimo" Ni
 email:
   url: mailto:woden@cs.cmu.edu
   text: woden@cs.cmu.edu
@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Kaixing Zha ** **
+# Wode **Ni**
 
 <!--
 include contact information from the front matter
@@ -20,6 +20,8 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
+
+
 ## Education
 
 ### **South China University of Technology** `2020.9-Now`
