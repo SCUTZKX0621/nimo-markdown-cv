@@ -69,6 +69,7 @@ A course to complete the training task alone: 12306 train ticket ticketing syste
 
 Mathematic:
 - Won the second prize in “The Chinese Mathematics Competitions”(CMC)，Guangdong Province.`2021.10 `
+
 English:
 - Scored 582 points in the CET4 and 553 points in the CET6.`2020.12&2021.6 `
 
