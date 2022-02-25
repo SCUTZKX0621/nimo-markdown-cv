@@ -1,21 +1,4 @@
----
-layout: cv
-title: Wode "Nimo" Ni
----
-{% include cv-contact.html %}
-
 # Kaixing Zha 
-
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
-
-{% include cv-contact.html %}
-
 
 ## Education
 
