@@ -26,18 +26,12 @@ Supported arguments:
 ## Education
 
 
-### **Huazhong University of Science and Technology** `2020.9 - Now`
+### **South China University of Technology** `2020.9 - Now`
 
 ```
-Wuhan, China
+Guangzhou,China
 ```
-
-B.S. in Electrical Engineering and Automation, School of Electrical and Electronic Engineering (EEE)
-- GPA: 3.73/4.0
-- Relevant Coursework: 
-  - Circuit Theory(I)&(II) 4.0&3.4 
-  - Analog Electronic Technology(II) 4.0 
-  - Fundamentals of Computer Programming(C++) 4.0
+B.S. in Software Engineering(Excellent Class) , School of Software Engineering
 
 ## Publications
 
