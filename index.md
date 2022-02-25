@@ -33,7 +33,9 @@ Guangzhou,China
 ```
 B.S. in Software Engineering(Excellent Class) , School of Software Engineering
 
-
+- Mastery of knowledge：Data structures and algorithms、 Principles of Computer Composition、Discrete Mathematics etc.
+- English:
+- Scored 582 points in the CET4 and 553 points in the CET6.`2020.12&2021.6`
 ## Experience
 
 ### **Sustainability - University Innovation Competition** `2021.10 - 2021.12`
@@ -41,9 +43,9 @@ B.S. in Software Engineering(Excellent Class) , School of Software Engineering
 _Competition introduction:_<br>
 An innovative competition based on the United Nations Sustainable Development Goals.(SDG)
 
-- The subject of the competition :Fighting the epidemic 
-- Realizing the movement and switch of characters in different scenes using the Egret DragonBone Engine
-- Showing the theme through the changing environment under the epidemic(Using Node.js)
+- The subject of the competition :Fighting the epidemic.
+- Realizing the movement and switch of characters in different scenes using the Egret DragonBone Engine.
+- Showing the theme through the changing environment under the epidemic(Using Node.js).
 
 ### **Tencent Blue King Intelligence Cloud - University Development Project** `2021.9 - 2021.11`
 
@@ -69,16 +71,13 @@ A course to complete the training task alone: 12306 train ticket ticketing syste
 
 Mathematic:
 - Won the second prize in “The Chinese Mathematics Competitions”(CMC)，Guangdong Province.`2021.10 `
-
-English:
-- Scored 582 points in the CET4 and 553 points in the CET6.`2020.12&2021.6 `
+- Won the Excellence Award College Mathematics Challenge Competitions.`2021.3 `
 
 ## Skills
 
 - Programmming language：C++(skilled)、Python&Java（Basic）
 - Developing skill：HTML\CSS\JS\Vue
 - Writing skill: Markdown(Experienced)
-- Mastery of knowledge：Data structures and algorithms、 Principles of Computer Composition、Discrete Mathematics etc.
 
 <!-- ### Footer
 
