@@ -12,9 +12,8 @@ Supported arguments:
     - phone
     - email
 -->
-
-{% include cv-contact.html %}
 # Kaixing Zha
+{% include cv-contact.html %}
 
 ## Education
 
