@@ -5,6 +5,7 @@ email:
   url: mailto:1993944596@qq.com
   text: Kaixing_Email
 ---
+# Kaixing Zha
 <!--
 include contact information from the front matter
 Supported arguments:
@@ -12,7 +13,6 @@ Supported arguments:
     - phone
     - email
 -->
-# Kaixing Zha
 {% include cv-contact.html %}
 
 ## Education
