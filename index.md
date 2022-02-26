@@ -53,7 +53,7 @@ An innovative competition based on the United Nations Sustainable Development Go
 
 _BlueKing PaaS introduction:_<br>
 **Tencent Blue King** is a set of PaaS (platform as a service) development framework used to build an integrated system of enterprise R&D and operation.
-- Using the Front-End development framework "Vue"、"Django", with Python、Mysql and other development tools to develop, 
+- Using the Front-End development framework such as Vue、Django , with Python、Mysql and other development tools to develop, 
 - Realizing the wechat moments based on the Saas platform of Blue King. 
 - Understanding the enterprise development standardization process.
 
