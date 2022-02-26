@@ -64,8 +64,8 @@ _Course introduction:_<br>
 A course to complete the training task alone: 12306 train ticket ticketing system
 
 - The software needs to unify users, administrator and console through several text files.  
-- Accomplishing the task of analyzing system requirements、designing the development pattern、achieving the intended function.
-- Using cpp completely, which makes use of the linked list, sorting algorithm and other knowledge, is a good test of personal programming practice ability.
+- Accomplishing the task of analyzing system requirements、designing the development pattern and achieving the intended function finally.
+- Using cpp completely, which makes use of the linked list, sorting algorithm and other knowledge.
 
 
 ## Grades & Awards
