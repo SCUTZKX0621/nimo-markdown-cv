@@ -39,7 +39,7 @@ English:
 - Scored 582 points in the CET4 and 553 points in the CET6.`2020.12&2021.6`
 ## Experience
 
-### **Sustainability - University Innovation Competition** `2021.10 - 2021.12`
+### **1. Sustainability - University Innovation Competition** `2021.10 - 2021.12`
 
 _Competition introduction:_<br>
 An innovative competition based on the United Nations Sustainable Development Goals.(SDG)
@@ -48,7 +48,7 @@ An innovative competition based on the United Nations Sustainable Development Go
 - Realizing the movement and switch of characters in different scenes using the Egret DragonBone Engine.
 - Showing the theme through the changing environment under the epidemic(Using Node.js).
 
-### **Tencent Blue King Intelligence Cloud - University Development Project** `2021.9 - 2021.11`
+### **2. Tencent Blue King Intelligence Cloud - University Development Project** `2021.9 - 2021.11`
 
 _BlueKing PaaS introduction:_<br>
 **Tencent Blue King** is a set of PaaS (platform as a service) development framework used to build an integrated system of enterprise R&D and operation.
@@ -58,7 +58,7 @@ _BlueKing PaaS introduction:_<br>
 
 [Click here to the Tencent Project](https://gitee.com/Leon_Zha/bk_wechat_demo)
 
-### **Cpp Course Training** `2021.5 - 2021.6`
+### **3. Cpp Course Training** `2021.5 - 2021.6`
 
 _Course introduction:_<br>
 A course to complete the training task alone: 12306 train ticket ticketing system
