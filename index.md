@@ -40,7 +40,7 @@ English:
 
 ## Experience
 
-### **1. Sustainability - University Innovation Competition** `2021.10 - 2021.12`
+### **1. Sustainability Development - University Innovation Competition** `2021.10 - 2021.12`
 
 _Competition introduction:_<br>
 An innovative competition based on the United Nations Sustainable Development Goals.(SDG)
